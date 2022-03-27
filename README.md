@@ -5,18 +5,20 @@ This repository is for showing how Git and GitHub work
 ## Introduction
 
 This is just tutorial I am following and doing some testing to learn more about git
-## Purpose
+## Purpose Testing
 
 Sample website with plenty of files for demos
 
-## Deployment 
+## Deployment Testing
 
 Testing
 
 
-## How to contribute
+## How to contribute Testing
 
 Testing 
+
+##Testing
 
 ## Steps
 We will add more text here please fork this repo
