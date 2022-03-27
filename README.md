@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
+Adding some test for rebasing example
+
 This is just tutorial I am following and doing some testing to learn more about git
 ## Purpose
 
